@@ -2,7 +2,7 @@
 
 A hands-on security monitoring lab that simulates a real-world SSH brute-force attack and demonstrates end-to-end detection, analysis, and automated response using **Wazuh** as the SIEM/XDR platform and **Kali Linux** as the attacker machine.
 
-![Status](https://img.shields.io/badge/status-completed-brightgreen) ![Wazuh](https://img.shields.io/badge/Wazuh-4.9.2-1389D3) ![MITRE](https://img.shields.io/badge/MITRE%20ATT%26CK-T1110-red)
+![Wazuh](https://img.shields.io/badge/Wazuh-4.9.2-1389D3) ![MITRE](https://img.shields.io/badge/MITRE%20ATT%26CK-T1110-red)
 
 ---
 
