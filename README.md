@@ -329,4 +329,4 @@ The lab successfully demonstrates a complete, realistic detection-and-response w
 - **Kali Linux 2025.2** (arm64) — attacker + Wazuh agent
 - **Hydra v9.5** — SSH brute-force tool
 - **rockyou.txt** — password wordlist
-- **Parallels Desktop** — virtualization (Apple Silicon)
+
