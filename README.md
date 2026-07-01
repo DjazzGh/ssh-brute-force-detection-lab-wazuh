@@ -14,7 +14,7 @@ A hands-on security monitoring lab that simulates a real-world SSH brute-force a
 4. [Attack Simulation](#4-attack-simulation)
 5. [Detection Analysis](#5-detection-analysis)
 6. [MITRE ATT&CK Mapping](#6-mitre-attck-mapping)
-7. [Active Response (Optional)](#7-active-response-optional)
+7. [Active Response](#7-active-response-optional)
 8. [Conclusion](#8-conclusion)
 
 ---
